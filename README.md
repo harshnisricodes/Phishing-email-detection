@@ -17,7 +17,7 @@ Technologies Used:
 - Scikit-learn
 - Joblib
 - HTML
-- CSS
+  
 
 Project Files
 
@@ -32,9 +32,7 @@ PhishingEmailDetection/
 │
 ├── templates/
 │   └── index.html
-│
-└── static/
-    └── style.css
+
 ```
 
 Installation
