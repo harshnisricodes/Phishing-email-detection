@@ -1,0 +1,13 @@
+text,label
+"Congratulations! You have won a free iPhone. Click here to claim.",Phishing
+"Your bank account has been suspended. Verify your details now.",Phishing
+"Claim your lottery prize by clicking this link.",Phishing
+"Update your password immediately to avoid account closure.",Phishing
+"You have received a refund. Login to claim it.",Phishing
+"Meeting is scheduled for tomorrow at 10 AM.",Safe
+"Please submit your assignment before Friday.",Safe
+"Lunch with the project team at 1 PM.",Safe
+"Your electricity bill has been generated.",Safe
+"Happy Birthday! Have a wonderful day.",Safe
+"Project review meeting is on Monday.",Safe
+"Your order has been delivered successfully.",Safe
